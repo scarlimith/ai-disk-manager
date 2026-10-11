@@ -1,0 +1,20 @@
+# Public distribution repository. No application source or personal runtime data.
+*.exe
+*.zip
+*.py
+*.pyc
+*.pyo
+__pycache__/
+ai_disk_manager/
+扫描报告/
+开发基线/
+.build*/
+*.jsonl
+latest_scan.json
+settings.json
+origin_registry.json
+cleanup_audit.jsonl
+.env*
+*.pem
+*.key
+

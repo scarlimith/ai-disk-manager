@@ -1,0 +1,25 @@
+{
+  "schema": "ai-disk-manager.provenance.v1",
+  "records": [
+    {
+      "path": "D:\\AI-Projects\\demo\\outputs",
+      "provider": "请填写实际 API 服务商",
+      "tool": "请填写自己的脚本或程序名称",
+      "model": "请填写实际模型标签，可留空",
+      "role": "output",
+      "action": "declared",
+      "kind": "directory",
+      "evidence": "这是格式示例，请先改为自己的真实本地目录；用户登记或日志声明不等于独立验证 AI 生成。禁止填写 API 密钥、请求正文、提示词或响应内容。"
+    },
+    {
+      "path": "D:\\AI-Projects\\demo\\cache",
+      "provider": "请填写实际 API 服务商",
+      "tool": "请填写缓存所属脚本",
+      "model": "",
+      "role": "cache",
+      "action": "declared",
+      "kind": "directory",
+      "evidence": "登记为缓存仍默认保护；删除影响必须由用户核实，不会因为导入清单而自动允许删除。"
+    }
+  ]
+}
