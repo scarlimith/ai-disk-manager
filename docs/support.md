@@ -1,6 +1,6 @@
 # 支持范围与限制
 
-版本：1.4.0。目标平台：Windows 10 / Windows 11 x64。只在当前开发电脑完成实测；其他机器、ARM、32 位 Windows、macOS 和 Linux 没有发行兼容性验证。
+版本：1.6.0。目标平台：Windows 10 / Windows 11 x64。只在当前开发电脑完成实测；其他机器、ARM、32 位 Windows、macOS 和 Linux 没有发行兼容性验证。
 
 ## 已实现的规则生态
 

@@ -1,4 +1,4 @@
-AI 磁盘管家 1.5 — 中文本地文件浏览、AI 内容盘点与批量清理
+AI 磁盘管家 1.6 — 中文本地文件浏览、AI 内容盘点与批量清理
 
 双击 AI磁盘管家.exe，无须另装 Python。界面使用 Python/Tk/ttk。
 目标 Windows 10/11 x64，仅当前电脑实测；支持规则和窗口尺寸检查不代表兼容所有电脑、所有 AI 版本。
@@ -99,3 +99,12 @@ Ctrl + F：焦点移到搜索框。
 下载：https://github.com/scarlimith/ai-disk-manager/releases/latest
 反馈：https://github.com/scarlimith/ai-disk-manager/issues
 程序未数字签名，请核对 SHA256。第三方原许可见 THIRD_PARTY_NOTICES.md 与 third_party_licenses。
+
+
+1.6 主题画廊
+
+点击左下角“主题…”打开画廊，点击预览图或主题按钮即可应用并保存；Tab 和空格也可选择主题，点击“完成”返回。
+共有8套外观：亮色、暗色、Doro乐园、Doro夜游、薄荷庭院、奶油拿铁、午夜蓝、紫藤夜色，另提供“跟随系统”。
+Doro主题带粉发、紫眼、白色短腿身体的Doro同人插画，在侧栏、页头和空列表引导中显示。主题素材随程序内置，无需下载。
+切换只改变外观，保留已选文件、跨页清理清单、显示列和文件保护状态。不会替你勾选文件、解除保护或执行删除。
+窄窗口侧栏保持足够宽度，以显示完整的分类、计数与主题入口。
